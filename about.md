@@ -1,3 +1,8 @@
+---
+layout: page
+title: About
+permalink: /about.md/
+---
 
  “tiny house” competition sponsored by AIA Utah and commissioned by the Salt Lake City Mayor Mendenhall
   Definition for home
