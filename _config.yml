@@ -13,7 +13,7 @@ show_excerpts: true # set to true to show excerpts on the homepage
 theme: minima
 minima:
   date_format: "%b %-d, %Y"
- skin: dark 
+  skin: dark 
 
   # generate social links in footer
   social_links:
