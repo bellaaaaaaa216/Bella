@@ -10,6 +10,70 @@ You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
 [minima](https://github.com/jekyll/minima)
 
+ “tiny house” competition sponsored by AIA Utah and commissioned by the Salt Lake City Mayor Mendenhall
+  Definition for home
+  For most people, home is a place to escape from the world. It is not just social cautious words and deeds that are avoided, but also anxiety and anxiety caused by other spaces. At the same time, in my memory, the memories of home have a lot to do with the care of my parents. Home is a place to cure diseases, not only physical cure, but also peace of mind. In my memory related to my parents, the memory of being sick and being taken care of as a child accounted for a large part. Not only that, when I was alone during my internship abroad, I also had the experience of being sick. A residential space that is not warm and uncomfortable will make me feel anxious and make my body more uncomfortable. The air quality problem in Salt Lake City can be considered as the most serious social problem at present, which causes a large part of the people in the area to suffer from respiratory diseases, so I hope to design a small living space for families with respiratory diseases.
+  Title: Air translator
+  —A tiny house designed for families suffering from respiratory diseases
+  Definition of client
+  -Retired elderly
+  -Walks, plant research
+  -3 people: grandfather/mother, nurse
+  -1 small dog
+  -2-4 cohabitants
+show_excerpts: true # set to true to show excerpts on the homepage
+
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+theme: minima
+minima:
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    twitter: jekyllrb
+    github:  jekyll
+    # devto: jekyll
+    # dribbble: jekyll
+    # facebook: jekyll
+    # flickr:   jekyll
+    # instagram: jekyll
+    # linkedin: jekyll
+    # pinterest: jekyll
+    # youtube: jekyll
+    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    # youtube_channel_name: CloudCannon
+    # telegram: jekyll
+    # googleplus: +jekyll
+    # microdotblog: jekyll
+    # keybase: jekyll
+
+    # Mastodon instances
+    # mastodon:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
+
+    # GitLab instances
+    # gitlab:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
+
+# Build settings
+
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+
 You can find the source code for Jekyll at GitHub:
 [jekyll][jekyll-organization] /
 [jekyll](https://github.com/jekyll/jekyll)
