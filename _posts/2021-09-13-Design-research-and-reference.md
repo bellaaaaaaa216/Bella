@@ -1,6 +1,5 @@
 ## Precedent Project1
 
-hljkh;jklj;ljh
 
 [Riverside Cabin / Arce&Westermeier](https://www.archdaily.com/966441/riverside-cabin-arce-and-westermeier?ad_medium=gallery)
 <Br><Br><img alt="Bella" src="https://github.com/bellaaaaaaa216/portfolio/blob/gh-pages/westermeier-02-ok.jpg?raw=true" width="600">
