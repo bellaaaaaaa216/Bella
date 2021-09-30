@@ -1,1 +1,1 @@
-
+<iframe src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//i.loli.net/2021/10/01/3E26olGQHZMkmOj.jpg" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
