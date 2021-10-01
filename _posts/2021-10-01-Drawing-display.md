@@ -44,7 +44,6 @@ PATIO VIEW
 <img alt="Bella" src="https://github.com/bellaaaaaaa216/Bella216/blob/master/_posts/GIF.gif?raw=true" width="600">   
     
 ## FLOOR PLAN
-<p align="center">
 <Br><img alt="Bella" src="https://github.com/bellaaaaaaa216/Bella216/blob/master/_posts/PLAN1.jpg?raw=true" width="600">
 <Br>FIRST FLOOR PLAN
 <Br><img alt="Bella" src="https://github.com/bellaaaaaaa216/Bella216/blob/master/_posts/PLAN2.jpg?raw=true" width="600">
@@ -77,10 +76,10 @@ PATIO VIEW
  <Br><img alt="Bella" src="https://github.com/bellaaaaaaa216/Bella216/blob/master/_posts/wall1.png?raw=true" width="600">
   <Br><img alt="Bella" src="https://github.com/bellaaaaaaa216/Bella216/blob/master/_posts/wall2.png?raw=true" width="600"> 
   ## Passive solar house research
-Passive solar house, the perfect combination of energy saving and architectural art
-https://www.sdjzu.edu.cn/sdjdlj/info/1014/1283.htm
-More comfortable: passive houses
-https://passivehouse-international.org/upload/green_brochure_2015_CN.pdf
+  <Br>Passive solar house, the perfect combination of energy saving and architectural art
+  <Br>https://www.sdjzu.edu.cn/sdjdlj/info/1014/1283.htm
+  <Br>More comfortable: passive houses
+  <Br>https://passivehouse-international.org/upload/green_brochure_2015_CN.pdf
   
   
     
