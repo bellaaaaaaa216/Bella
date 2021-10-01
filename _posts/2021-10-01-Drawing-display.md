@@ -78,7 +78,7 @@ PATIO VIEW
 <Br>Comprehensive technology is used for advanced integration of photosynthesis in the built environment.  
  <Br><img alt="Bella" src="https://github.com/bellaaaaaaa216/Bella216/blob/master/_posts/wall1.png?raw=true" width="600">
   <Br><img alt="Bella" src="https://github.com/bellaaaaaaa216/Bella216/blob/master/_posts/wall2.png?raw=true" width="600"> 
-  ## Passive solar house research
+   <Br>## Passive solar house research
   <Br>Passive solar house, the perfect combination of energy saving and architectural art
   <Br>https://www.sdjzu.edu.cn/sdjdlj/info/1014/1283.htm
   <Br>More comfortable: passive houses
